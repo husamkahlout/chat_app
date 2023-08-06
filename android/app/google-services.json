@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "141568910767",
+    "project_id": "muthlth-d96e2",
+    "storage_bucket": "muthlth-d96e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141568910767:android:c3a0b6525a8217fc8e7b5a",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141568910767-mboeh77q0dr0d9402vg52lp64lh7nijf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq1Q6nrbfzIta3sdWhrmyFPxNC3XQGNCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141568910767-mboeh77q0dr0d9402vg52lp64lh7nijf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "141568910767-19j5cfa33b0t36lejrv8kop6r3ggik26.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.husam.mothlth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

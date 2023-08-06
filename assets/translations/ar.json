@@ -1,0 +1,79 @@
+{
+    "onboarding": {
+        "onboardingOneTitle": "أهلا بك",
+        "onboardingOneText": "مرحبا عزيزي المستخدم, بوابتك قيد التجهيز",
+        "onboardingTwoTitle": "بسيط و سهل الإستخدام",
+        "onboardingTwoText": "في خطوات يمكنك إنشاء حساب لك \n ولعائلتك بكل سهولة",
+        "onboardingThreeTitle": "في ثواني",
+        "onboardingThreeText": "مميزات عديدة وسريعة\n في مكـان واحد",
+        "skip": "تخطي",
+        "start": "إبدأ"
+    },
+    "auth": {
+        "name": "الإسم",
+        "email": "البريد الإلكتروني",
+        "password": "كلمة المرور",
+        "rePassword": "أعد كتابة كلمة المرور",
+        "loginButton": "دخـول",
+        "signUpButton": "تسجـيل",
+        "signIn": "دخـول ",
+        "signUp": "تسجـيل  ",
+        "haveAccount": " لديك حساب بالفعل ؟",
+        "dontHaveAccount": " ليس لديك حساب ؟",
+        "forgetPassword": "نسيت كلمة المرور ؟",
+        "forgetPasswordAppbar": "تغيير كلمة المرور",
+        "forgetPasswordText": "من فضلك أدخل عنوان بريدك الإلكتروني لتلقي رابط إعادة تعيين كلمة المرور",
+        "forgetPasswordSuccess": "تم إرسال رابط إعادة تعيين كلمة المرور بنجاح",
+        "reset": "تغيير",
+        "sendBtn": "إرسال",
+        "deleteAccount": "حذف الحساب",
+        "confirmDeleteUser": "هل انت متأكد من أنك تريد حذف حسابك ؟",
+        "confirmDeleteUserText": "سيؤدي حذف حسابك إلى فقدان كافة بياناتك بشكل دائم",
+        "deleteIsDone": "تم حذف الحساب بنجاح",
+        "errors": {
+            "error": "خـطأ",
+            "requiredError": "هذا الحقل مطلوب",
+            "emailError": "أدخل بريد الكتروني صالح",
+            "weakPassword": "كلمة المرور يجب ان تكون على الاقل 6 حروف",
+            "wrongPassword": "كلمة المرور خاطئة",
+            "confirmPasswordError": "كلمة المرور غير متطابقة",
+            "alreadyHaveAccount": "الحساب موجود بالفعل",
+            "noUserFound": "لا يوجد حساب لهذا البريد الإلكتروني"
+        }
+    },
+    "drawer": {
+        "hey": "مرحبا,",
+        "home": "الصفحة الرئيسية",
+        "logout": "تسجـيل خروج"
+    },
+    "home": {
+        "hello": "مرحبا",
+        "introText": "بكل سهولة احفظ بطاقاتك في مكان واحد داخل تصنيفاتك الخاصة.",
+        "enterCategoryName": "إضافة تصنيف جديد",
+        "caetgoryName": "إسم التصـنيف",
+        "addCategory": "إضافة",
+        "categories": "التصـنيفات",
+        "editCategory": "تعديل التصـنيف",
+        "submit": "حـفظ",
+        "alertTitle": "حـذف",
+        "alertText": "هل أنت متأكد من حذف هذا التصنيف ؟",
+        "cancel": "الغاء",
+        "delete": "حـذف",
+        "editImage": "تعديل الصورة"
+    },
+    "cards": {
+        "addNewCardAppbar": "إضافة بطاقة جديدة",
+        "editCardAppbar": "تعديل البطاقة",
+        "cardImage": "صورة البطاقة",
+        "cardName": "إسم البطاقة",
+        "addCardBtn": "إضافة",
+        "editCardBtn": "حـفظ",
+        "cardDeleteText": "هل أنت متأكد من حذف هذه البطاقة ؟",
+        "camera": "الكاميرا",
+        "gallery": "الاستوديو",
+        "addImageAlert": "يرجى إضافة صورة البطاقة.",
+        "addedSuccess": "تمت إضافة البطاقة بنجاح.",
+        "editedSuccess": "تم تحديث البطاقة بنجاح.",
+        "noImageFound": "لا توجد صورة"
+    }
+}

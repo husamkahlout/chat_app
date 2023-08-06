@@ -1,0 +1,79 @@
+{
+    "onboarding": {
+        "onboardingOneTitle": "Welcome",
+        "onboardingOneText": "Hello dear user, your gateway is ready",
+        "onboardingTwoTitle": "Simple and easy to use",
+        "onboardingTwoText": "In simple steps you can create an account\n for you and your family with ease.",
+        "onboardingThreeTitle": "In seconds!",
+        "onboardingThreeText": "Lots of quick features\n in one place.",
+        "skip": "Skip",
+        "start": "Start"
+    },
+    "auth": {
+        "name": "Name",
+        "email": "Email",
+        "password": "Password",
+        "rePassword": "Re Password",
+        "loginButton": "Login",
+        "signUpButton": "Sign Up",
+        "signIn": "Sign In",
+        "signUp": "Sign Up",
+        "haveAccount": "Already have an Account ? ",
+        "dontHaveAccount": "Don’t have an Account ? ",
+        "forgetPassword": "Forgot password ?",
+        "forgetPasswordAppbar": "Forgot Password",
+        "forgetPasswordText": "Please enter your email address to receive a password reset link.",
+        "forgetPasswordSuccess": "Password reset link sent successfully",
+        "reset": "Reset",
+        "sendBtn": "Send",
+        "deleteAccount": "Delete account",
+        "confirmDeleteUser": "Are you sure you want to delete your account ?",
+        "confirmDeleteUserText": "Deleting your account will result in the permanent loss of all your data",
+        "deleteIsDone": "User account successfully deleted",
+        "errors": {
+            "error": "Error",
+            "requiredError": "Please fill in this field",
+            "emailError": "Please enter a valid email address",
+            "weakPassword": "Your password must be at least 6 characters long",
+            "wrongPassword": "Wrong password provided for that user.",
+            "confirmPasswordError": "The passwords do not match",
+            "alreadyHaveAccount": "The account already exists for that email.",
+            "noUserFound": "No user found for that email."
+        }
+    },
+    "drawer": {
+        "hey": "Hey,",
+        "home": "Home",
+        "logout": "Logout"
+    },
+    "home": {
+        "hello": "Hello",
+        "introText": "Easily store and categorize all of your cards in one safe place.",
+        "enterCategoryName": "Add new category",
+        "caetgoryName": "Category Name",
+        "addCategory": "Add",
+        "categories": "Categories",
+        "editCategory": "Edit Category",
+        "submit": "Save",
+        "alertTitle": "Delete",
+        "alertText": "Are you sure you want to delete this category ?",
+        "cancel": "Cancel",
+        "delete": "Delete",
+        "editImage": "Edit Image"
+    },
+    "cards": {
+        "addNewCardAppbar": "Add New Card",
+        "editCardAppbar": "Edit Card",
+        "cardImage": "Card Image",
+        "cardName": "Card Name",
+        "addCardBtn": "Add",
+        "editCardBtn": "Save",
+        "cardDeleteText": "Are you sure you want to delete this card ?",
+        "camera": "Camera",
+        "gallery": "Gallery",
+        "addImageAlert": "Please add a card image.",
+        "addedSuccess": "Card added successfully.",
+        "editedSuccess": "Card updated successfully.",
+        "noImageFound": "No Image Found"
+    }
+}
